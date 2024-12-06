@@ -1,0 +1,8 @@
+rootProject.name = 'springMicroServices'
+
+includeBuild 'eurekaServer'
+
+includeBuild 'eurekaClient'
+includeBuild 'eurekaClient2'
+
+includeBuild 'apiGateway'

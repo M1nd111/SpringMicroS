@@ -1,0 +1,38 @@
+server:
+  port: 8765
+spring:
+  application:
+    name: api-gateway
+  cloud:
+    gateway:
+      routes:
+        - id: eureka-client
+          uri: lb://EUREKA-CLIENT
+          predicates:
+            - Path=/main/test
+            - Method=GET
+        - id: eureka-client-2
+          uri: lb://EUREKA-CLIENT-2
+          predicates:
+            - Path=/main2/test
+            - Method=GET
+      discovery:
+        locator:
+          enabled: true
+          lower-case-service-id: true
+
+
+eureka:
+  client:
+    register-with-eureka: true
+    fetch-registry: true
+    service-url:
+      defaultZone: http://localhost:8081/eureka
+logging:
+  level:
+    com:
+      netflix:
+        eureka: trace
+        discovery: trace
+
+
