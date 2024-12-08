@@ -8,6 +8,6 @@ spring:
     config:
       server:
         git:
-          uri: https://github.com/M1nd111/config-server.git
+          uri: https://github.com/M1nd111/config-server.git # Ваш репозиторий
           default-label: main
-          search-locations: "."
+          search-paths: "." # Поиск в корне

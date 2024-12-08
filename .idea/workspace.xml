@@ -4,74 +4,21 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="222672d9-f355-4c01-8749-63ed2126c62c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apiGateway/.gitattributes" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apiGateway/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apiGateway/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apiGateway/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apiGateway/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apiGateway/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apiGateway/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apiGateway/settings.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apiGateway/src/main/java/ru/micro/demo/apigateway/ApIGatewayApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apiGateway/src/main/resources/application-gateway.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apiGateway/src/test/java/ru/micro/demo/apigateway/ApIGatewayApplicationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/configServer/.gitattributes" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/configServer/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/configServer/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/configServer/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/configServer/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/configServer/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/configServer/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/configServer/settings.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/configServer/src/main/java/ru/micro/demo/configserver/ConfigServerApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/configServer/src/main/resources/application-config.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/configServer/src/test/java/ru/micro/demo/configserver/ConfigServerApplicationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eurekaClient/.gitattributes" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eurekaClient/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eurekaClient/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eurekaClient/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eurekaClient/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eurekaClient/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eurekaClient/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eurekaClient/settings.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eurekaClient/src/main/java/ru/micro/demo/eurekaclient/EurekaClientApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eurekaClient/src/main/java/ru/micro/demo/eurekaclient/http/controller/TestController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eurekaClient/src/main/resources/application-client.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eurekaClient/src/test/java/ru/micro/demo/eurekaclient/EurekaClientApplicationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eurekaClient2/.gitattributes" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eurekaClient2/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eurekaClient2/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eurekaClient2/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eurekaClient2/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eurekaClient2/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eurekaClient2/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eurekaClient2/settings.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eurekaClient2/src/main/java/ru/micro/demo/eurekaclient2/EurekaClient2Application.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eurekaClient2/src/main/java/ru/micro/demo/eurekaclient2/http/controller/TestController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eurekaClient2/src/main/resources/application-client2.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eurekaClient2/src/test/java/ru/micro/demo/eurekaclient2/EurekaClient2ApplicationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eurekaServer/.gitattributes" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eurekaServer/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eurekaServer/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eurekaServer/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eurekaServer/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eurekaServer/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eurekaServer/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eurekaServer/settings.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eurekaServer/src/main/java/ru/micro/demo/eurekaserver/EurekaServerApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eurekaServer/src/main/resources/application-server.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
+    <list default="true" id="222672d9-f355-4c01-8749-63ed2126c62c" name="Changes" comment="Почти готовая архитекрутра, перемещаю проперти на гит">
+      <change afterPath="$PROJECT_DIR$/apiGateway/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/configServer/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eurekaClient/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eurekaClient2/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eurekaServer/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apiGateway/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/apiGateway/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apiGateway/src/main/resources/application-gateway.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/configServer/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/configServer/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/configServer/src/main/resources/application-config.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eurekaClient/src/main/resources/application-client.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eurekaClient2/src/main/resources/application-client2.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eurekaServer/src/main/resources/application-server.yaml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -139,23 +86,23 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="KubernetesApiProvider"><![CDATA[{
-  "contexts": [
+  <component name="KubernetesApiProvider">{
+  &quot;contexts&quot;: [
     {
-      "name": "docker-desktop"
+      &quot;name&quot;: &quot;docker-desktop&quot;
     }
   ],
-  "isMigrated": true
-}]]></component>
+  &quot;isMigrated&quot;: true
+}</component>
   <component name="KubernetesSettings">
     <option name="contextName" value="docker-desktop" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 6
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
   <component name="ProjectId" id="2ppPQaxzp2pJ3lPwpuyj8cN2l7v" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -164,47 +111,53 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "Gradle.Build apIGateway.executor": "Run",
-    "Gradle.Build eurekaClient.executor": "Run",
-    "Gradle.Build eurekaServer.executor": "Run",
-    "Gradle.Build springMicroServices.executor": "Run",
-    "Gradle.apiGateway [build].executor": "Run",
-    "RequestMappingsPanelOrder0": "0",
-    "RequestMappingsPanelOrder1": "1",
-    "RequestMappingsPanelWidth0": "75",
-    "RequestMappingsPanelWidth1": "75",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "Spring Boot.ApIGatewayApplication.executor": "Run",
-    "Spring Boot.EurekaClient2Application.executor": "Run",
-    "Spring Boot.EurekaClientApplication-inst-1.executor": "Run",
-    "Spring Boot.EurekaClientApplication-inst-2.executor": "Run",
-    "Spring Boot.EurekaClientApplication-inst-3.executor": "Run",
-    "Spring Boot.EurekaClientApplication.executor": "Run",
-    "Spring Boot.EurekaServerApplication.executor": "Run",
-    "git-widget-placeholder": "master",
-    "ignore.virus.scanning.warn.message": "true",
-    "jdk.selected.JAVA_MODULE": "20",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/maks_/IdeaProjects/springMicroServices/eurekaClient2/src/main/java/ru/micro/demo/eurekaclient2",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "run.configurations.included.in.services": "true",
-    "settings.editor.selected.configurable": "spring",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;Gradle.Build apIGateway.executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.Build configServer.executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.Build eurekaClient.executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.Build eurekaServer.executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.Build springMicroServices.executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.apiGateway [build].executor&quot;: &quot;Run&quot;,
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;Spring Boot.ApIGatewayApplication.executor&quot;: &quot;Run&quot;,
+    &quot;Spring Boot.ConfigServerApplication.executor&quot;: &quot;Run&quot;,
+    &quot;Spring Boot.EurekaClient2Application.executor&quot;: &quot;Run&quot;,
+    &quot;Spring Boot.EurekaClientApplication-inst-1.executor&quot;: &quot;Run&quot;,
+    &quot;Spring Boot.EurekaClientApplication-inst-2.executor&quot;: &quot;Run&quot;,
+    &quot;Spring Boot.EurekaClientApplication-inst-3.executor&quot;: &quot;Run&quot;,
+    &quot;Spring Boot.EurekaClientApplication.executor&quot;: &quot;Run&quot;,
+    &quot;Spring Boot.EurekaServerApplication.executor&quot;: &quot;Run&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;20&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/maks_/IdeaProjects/springMicroServices/eurekaServer/src/main/resources&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;run.configurations.included.in.services&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;spring&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\maks_\IdeaProjects\springMicroServices\eurekaServer\src\main\resources" />
+      <recent name="C:\Users\maks_\IdeaProjects\springMicroServices\eurekaClient2\src\main\resources" />
+      <recent name="C:\Users\maks_\IdeaProjects\springMicroServices\eurekaClient\src\main\resources" />
+      <recent name="C:\Users\maks_\IdeaProjects\springMicroServices\configServer\src\main\resources" />
       <recent name="C:\Users\maks_\IdeaProjects\springMicroServices\eurekaClient2\src\main\java\ru\micro\demo\eurekaclient2" />
     </key>
   </component>
@@ -321,8 +274,19 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1733460031159</updated>
-      <workItem from="1733460032247" duration="15111000" />
+      <workItem from="1733460032247" duration="18943000" />
+      <workItem from="1733500557548" duration="15000" />
+      <workItem from="1733634697591" duration="1376000" />
     </task>
+    <task id="LOCAL-00001" summary="Почти готовая архитекрутра, перемещаю проперти на гит">
+      <option name="closed" value="true" />
+      <created>1733476750781</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1733476750781</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -341,6 +305,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Почти готовая архитекрутра, перемещаю проперти на гит" />
+    <option name="LAST_COMMIT_MESSAGE" value="Почти готовая архитекрутра, перемещаю проперти на гит" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
